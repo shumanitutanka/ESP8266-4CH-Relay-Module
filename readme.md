@@ -5,7 +5,7 @@ This project demonstrates how to control **four relays** using an **ESP8266 (Nod
 ![Project Overview](/image/demo.jpg)
 
 Project website link
-https://electroiot.in/index.php/2025/01/30/esp8266-4-relay-iot-control-with-arduino-cloud-push-buttons
+https://electroiot.in/esp8266-4-relay-iot-control-with-arduino-cloud-push-buttons
 
 ---
 
@@ -121,4 +121,4 @@ void onRelay1Change() {
 ## 💡 📧 ** Contact Us **
 
 📧 Contact Us
-For any questions or feedback, feel free to reach out at: electroiot@hotmail.com# ESP8266-NodeMCU-4CH-Relay-Module
+For any questions or feedback, feel free to reach out at: electroiot@hotmail.com and electroiot.in@gmail.com# ESP8266-NodeMCU-4CH-Relay-Module
